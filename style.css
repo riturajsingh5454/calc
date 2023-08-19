@@ -1,0 +1,17 @@
+
+.calculator{
+   
+   
+   
+    display: flex;
+    justify-content: center;
+   
+    flex-direction: column;
+}
+
+.operator,input{
+    width: 300px;
+    height: 70px;
+    margin-top: 20px;
+    font-size: 30px;
+}
